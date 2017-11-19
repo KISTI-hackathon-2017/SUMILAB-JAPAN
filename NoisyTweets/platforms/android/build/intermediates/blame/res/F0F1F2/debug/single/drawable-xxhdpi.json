@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxhdpi\\background.png",
+        "source": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    }
+]

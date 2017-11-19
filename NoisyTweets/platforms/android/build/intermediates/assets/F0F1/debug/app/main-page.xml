@@ -1,0 +1,17 @@
+<Page
+  loaded="pageLoaded"
+  xmlns="http://www.nativescript.org/tns.xsd"
+	xmlns:maps="nativescript-google-maps-sdk"
+>
+  <ActionBar title="My App" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+  <!-- <Button text="Load Data" tap="loadData" /> -->
+  <GridLayout>
+    <maps:mapView latitude="{{ latitude }}" longitude="{{ longitude }}" mapAnimationsEnabled="{{ mapAnimationsEnabled }}"
+    								zoom="{{ zoom }}" bearing="{{ bearing }}" 
+    								tilt="{{ tilt }}" padding="{{ padding }}" mapReady="onMapReady"  
+   								markerSelect="onMarkerSelect" markerBeginDragging="onMarkerBeginDragging"
+   								markerEndDragging="onMarkerEndDragging" markerDrag="onMarkerDrag"
+   								cameraChanged="onCameraChanged" />
+  </GridLayout>
+</Page>

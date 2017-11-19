@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dso55380\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\okio-1.9.0_b487366594e9cd6465ba699ceeafded8bb327983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dso55380\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\gson-2.7_886159ea86479d2c8f2516cdc5774f0a5eeb3986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_1d05518ae37efaab9132b13563391aad09a413b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_6f6315d43e56f33910ff6093c09a017255dffe8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="684b132d394d746b6a5eeddb384aadd775ea5bdc">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.twitter.sdk.android-twitter-core-3.0.0_998a9b2171b60a9d1a1beabbfacf9647b3de47a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48ab283a4cda3b78eda2c149b588cb0aa0c66cc9">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-maps-11.6.0_0a6e7bd5e374095a02a08758b6d843af61ed5074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dso55380\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\okhttp-3.4.2_33d31670b8091c18da22a32ec38f637295283eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dso55380\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\converter-gson-2.1.0_f45ea58c81c71fc951a1ec48f39de5876e095486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_943f5a030816e2fbc9d4ee6e107290c96beaa116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_a1ba2c80b577df8f5c33b07051ba0a8d594dcbb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-11.6.0_7aafc043fced7e515556f07554587e068ecb7156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_c60122ac4a6cc64583439a9cc66c02a5b1138f49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_6fbdf88af56ade2d897268cb755907a2efd755bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_eaca66df7d69be2681f1d1a516a30acdd093c543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dso55380\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\retrofit-2.1.0_5cc56379d40a71da1c7d0cd56bc55639d17a3d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_943ef28e59479ddf9e62585a5b2e05c675834921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-11.6.0_7e1459061a42c36314f967c698d90f8923b5a0ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-11.6.0_49e6f12b569ff48dece3b24fe331fa31318588eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_aa90592293783b509ac1e96602a514d4a5839452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_fd82d101492c0e537cee7f94a711009f87e4effd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_ecf7d4fce4842c41c8799970a3d62f6018acbb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_847835487e3d54d5e8deacfb4df6fb97174d4bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-nativescript-optimized_3e263213c27e1ad9e4be5c920302c53a94e0440a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\cygwin\home\dso55380\hack\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_cab00823ac0822e6b7ed5b2618a766034c50c1c5.jar" />
+    </item>
+
+</items>

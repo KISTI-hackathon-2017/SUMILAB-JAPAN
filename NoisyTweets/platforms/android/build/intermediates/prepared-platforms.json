@@ -1,0 +1,7 @@
+{
+    "nativescript-google-maps-sdk": true,
+    "nativescript-theme-core": true,
+    "nativescript-twitter": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true
+}

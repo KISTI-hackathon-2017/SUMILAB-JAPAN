@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\build\\intermediates\\incremental\\mergeF0F1F2DebugResources\\merged.dir\\values-en-rSS\\values-en-rSS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 75,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld\\platforms\\android\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\3.0.0\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 75,
+                        "endOffset": 126
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+<Page
+  loaded="pageLoaded"
+  xmlns="http://www.nativescript.org/tns.xsd"
+	xmlns:maps="nativescript-google-maps-sdk"
+	xmlns:twitter="nativescript-twitter"
+>
+  <ActionBar title="Nosiy Tweets" class="action-bar">
+    <ActionItem tap="loadData"
+      ios.systemIcon="13" ios.position="right"
+      android.systemIcon="ic_menu_rotate" android.position="actionBar" />
+  </ActionBar>
+  <!-- Your UI components go here -->
+  <!-- <Button text="Load Data" tap="loadData" /> -->
+  <GridLayout rows="40,*">
+    <twitter:TNSTwitterButton id="twitter" row="0" />
+    <maps:mapView latitude="{{ latitude }}" longitude="{{ longitude }}" mapAnimationsEnabled="{{ mapAnimationsEnabled }}"
+    								zoom="{{ zoom }}" bearing="{{ bearing }}" 
+    								tilt="{{ tilt }}" padding="{{ padding }}" mapReady="onMapReady"  
+   								markerSelect="onMarkerSelect" markerBeginDragging="onMarkerBeginDragging"
+   								markerEndDragging="onMarkerEndDragging" markerDrag="onMarkerDrag"
+   								cameraChanged="onCameraChanged" row="1">
+      <maps:mapView.infoWindowTemplates>
+        <template key="testWindow">
+          <StackLayout orientation="vertical" width="160" height="120" >
+            <Label text="{{title}}" className="title" textWrap="true" />
+          </StackLayout>
+        </template>
+      </maps:mapView.infoWindowTemplates>
+    </maps:mapView>
+  </GridLayout>
+</Page>

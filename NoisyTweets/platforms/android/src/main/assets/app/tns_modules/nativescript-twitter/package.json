@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-twitter",
+        "scope": null,
+        "escapedName": "nativescript-twitter",
+        "name": "nativescript-twitter",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld"
+    ]
+  ],
+  "_from": "nativescript-twitter@latest",
+  "_id": "nativescript-twitter@2.0.0",
+  "_inCache": true,
+  "_location": "/nativescript-twitter",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-twitter-2.0.0.tgz_1497023644135_0.6249543903395534"
+  },
+  "_npmUser": {
+    "name": "triniwiz",
+    "email": "fortune.osei@yahoo.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-twitter",
+    "scope": null,
+    "escapedName": "nativescript-twitter",
+    "name": "nativescript-twitter",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-twitter/-/nativescript-twitter-2.0.0.tgz",
+  "_shasum": "8f2911281be68e082de1607f82784d1f8c2a0bff",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-twitter",
+  "_where": "C:\\cygwin\\home\\dso55380\\hack\\HelloWorld",
+  "author": {
+    "name": "Osei Fortune",
+    "email": "fortune.osei@yahoo.com",
+    "url": "https://github.com/triniwiz"
+  },
+  "bugs": {
+    "url": "https://github.com/triniwiz/nativescript-twitter/issues"
+  },
+  "dependencies": {},
+  "description": "NativeScript Twitter Kit for Android & IOS",
+  "devDependencies": {
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "8f2911281be68e082de1607f82784d1f8c2a0bff",
+    "tarball": "https://registry.npmjs.org/nativescript-twitter/-/nativescript-twitter-2.0.0.tgz"
+  },
+  "gitHead": "2f143f56a10473b65ec8023fb0bf5197f2c2a149",
+  "homepage": "https://github.com/triniwiz/nativescript-twitter",
+  "license": "MIT",
+  "main": "twitter",
+  "maintainers": [
+    {
+      "name": "triniwiz",
+      "email": "fortune.osei@yahoo.com"
+    }
+  ],
+  "name": "nativescript-twitter",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0",
+      "android": "3.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "tns-core-modules": "3.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "2.0.0"
+}
